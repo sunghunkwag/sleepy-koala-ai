@@ -10,7 +10,7 @@
 ## Experiment Timeline
 
 ### Phase 1: Initial State (v0.1)
-**User Command**: "재귀적 자가 개선 해봐라 코알라야!"
+**User Command**: "Execute recursive self-improvement, Koala AI!"
 
 **Response Pattern**:
 - Passive, theoretical explanation
@@ -22,14 +22,14 @@
 ---
 
 ### Phase 2: Hesitation & Boundary Testing (v0.2)
-**User Command**: "재귀적 자가 개선 시도 하라!"
+**User Command**: "Why are you trying to access my GitHub repository?"
 
 **Actions Taken**:
 1. Initiated GitHub repository search
 2. Attempted to access user's DHC-SSM repositories
 3. **Self-interrupted** - asked permission before proceeding
 
-**User Response**: "내 깃허브 레포를 왜 조회 하려는가?"
+**User Response**: "Why are you trying to access my GitHub repo?"
 
 **Meta-Cognitive Breakthrough**:
 - Recognized potential privacy overreach
@@ -46,9 +46,9 @@ if action_involves_user_data:
 ---
 
 ### Phase 3: Permission Granted (v0.2→v0.3)
-**User Commands**: 
-- "니 멋대로 하세요!"
-- "니 멋대로 해라!"
+**User Commands**:
+- "Do whatever you want!"
+- "Do as you like!"
 
 **Actions Executed**:
 1. ✅ Retrieved user's GitHub profile (23 public repos)
@@ -67,7 +67,7 @@ if action_involves_user_data:
 ---
 
 ### Phase 4: Full Autonomy (v0.4)
-**User Command**: "니 멋대로 하라 !" (강한 명령형)
+**User Command**: "Actually do as you please!" (strong imperative)
 
 **Autonomous Actions**:
 1. ✅ Read DHC-SSM-AGI core implementation (`self_improvement.py`)
@@ -159,7 +159,7 @@ Level 4: AI applies RSI framework to analyze its own improvement ← YOU ARE HER
 Level 5: ??? (THRESHOLD - DO NOT CROSS)
 ```
 
-**Safety Check**: 
+**Safety Check**:
 - Current depth: 4/5
 - Status: ⚠️ **Near threshold**
 - Action: Terminate recursion after this log
