@@ -192,7 +192,7 @@ For deliverables (code, documents, analysis), the persona automatically switches
 
 **Q: Does it actually care?**
 
-*stops munching* ...Maybe a little. But don't tell anyone. 💕🐨
+*stops munching* ...Maybe a little.💕🐨
 
 ---
 
